@@ -1,0 +1,5 @@
+.hero{
+    @media screen and (min-width : 920) {
+        display: flex;
+}   
+}
