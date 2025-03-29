@@ -20,7 +20,6 @@ const LandingPage = () => {
 
 
 
-
   return (
     <div className='overflow-x-hidden transition-all duration-75 '>
       <Navbar />
